@@ -1,0 +1,1 @@
+This repository contains the Verilog implementation of a 32-bit single-cycle RISC-V processor. The design is based on the RISC-V instruction set architecture (ISA) and includes a basic set of instructions to demonstrate the fundamental operations of a single-cycle processor
